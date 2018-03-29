@@ -15,7 +15,7 @@ https://poi.apache.org/text-extraction.html
 https://github.com/modesty/pdf2json/blob/master/readme.md
 https://stackoverflow.com/questions/1554280/extract-text-from-pdf-in-javascript
 https://ourcodeworld.com/articles/read/405/how-to-convert-pdf-to-text-extract-text-from-pdf-with-javascript
-https://stackoverflow.com/questions/40635979/how-to-correctly-extract-text-from-a-pdf-using-pdf-js
+https://stackoverflow.com/questions/40635979/how-to-correctly-extract-text-from-a-pdf-using-pdf-jsc
 
 
 https://ourcodeworld.com/articles/read/405/how-to-convert-pdf-to-text-extract-text-from-pdf-with-javascript
